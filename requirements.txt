@@ -4,4 +4,3 @@ av
 pandas
 deepface
 streamlit-webrtc
-tensorflow==2.15.0
