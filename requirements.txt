@@ -1,6 +1,7 @@
-streamlit
-opencv-python
-av
-pandas
-deepface
-streamlit-webrtc
+streamlit==1.37.0
+pandas==2.2.2
+opencv-python-headless==4.10.0.84
+av==10.0.0
+deepface==0.0.93
+streamlit-webrtc==0.47.7
+tensorflow-cpu==2.15.0
